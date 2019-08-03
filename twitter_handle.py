@@ -2,8 +2,8 @@ import json
 import requests
 from requests_oauthlib import OAuth1
 
-api_key = 'Z0P4OidK4cKttEmzDdQRSckpa' # enter api key
-api_secret_key = 'rqpAf5m3pbnoanYR1Z5BLYFkksiuxhwOQzhv8PeVmHsa7rXySR' # enter api secret key
+api_key = '' # enter api key
+api_secret_key = '' # enter api secret key
 auth = OAuth1(api_key, api_secret_key)
 
 screen_name="thevirdas"
